@@ -15,6 +15,6 @@
 
     <project path="packages/apps/GlyphAdapter" name="packages_apps_GlyphAdapter" remote="nulldebris" revision="15" />
 
-    <project path="hardware/dolby" name="hardware_dolby" remote="nulldebris" revision="sony" />
+    <project path="hardware/dolby" name="hardware_dolby" remote="nulldebris" revision="lunaris" />
 
 </manifest>
