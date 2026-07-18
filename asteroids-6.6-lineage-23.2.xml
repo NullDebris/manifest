@@ -18,4 +18,5 @@
 
     <project path="hardware/dolby" name="hardware_dolby" remote="nulldebris" revision="lunaris" />
 
+    <project path="hardware/nothing" name="android_hardware_nothing" remote="nulldebris" revision="lineage-23.2"/>
 </manifest>
